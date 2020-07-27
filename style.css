@@ -104,11 +104,11 @@ color: #E0B612;
     margin-top: 10px;
 }
 
-#showPIN {
+#showPIN, #display {
     color: white;
 }
 
-.notify-error, .notify-correct {
+#notifyError, #notifyCorrect {
     display: none;
 }
 
